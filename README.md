@@ -1,2 +1,1 @@
-# self-hosting-guide
-
+# Self hosting guide
